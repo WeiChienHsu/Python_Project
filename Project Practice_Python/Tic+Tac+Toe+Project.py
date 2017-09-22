@@ -39,8 +39,6 @@ def board_print():
 # Print a board
 
 
-# In[65]:
-
 def player1():
     
     loc = ''
